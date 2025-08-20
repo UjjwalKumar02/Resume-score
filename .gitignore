@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project specific
+compare/
